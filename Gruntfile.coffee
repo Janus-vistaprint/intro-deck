@@ -81,7 +81,7 @@ module.exports = (grunt) ->
                         'css/*.css'
                         'resources/**'
                     ]
-                    dest: 'dist/'
+                    dest: 'docs/'
                 },{
                     expand: true
                     src: ['index.html']
@@ -126,7 +126,7 @@ module.exports = (grunt) ->
         ]
 
     grunt.registerTask 'dist',
-        'Save presentation files to *dist* directory.', [
+        'Save presentation files to *docs* directory.', [
             'test'
             'sass'
             'buildIndex'
