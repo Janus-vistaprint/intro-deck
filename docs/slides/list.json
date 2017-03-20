@@ -8,7 +8,7 @@
         "tools-cont.md"
     ],
     "framework-packages.md",
-    "open-souce.md",
+    ["open-souce.md", "internal-open.md"],
     [
         "engagement.md",
         "engagement-onprem.md",

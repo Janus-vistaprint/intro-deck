@@ -1,3 +1,3 @@
 ##  Open Source
 
-We are committed to open sourcing any tools we make in house.
+We are committed to open sourcing any tools we make in house. <small>as long as it makes sense</small>
