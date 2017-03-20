@@ -4,16 +4,16 @@
         "our-mission.md"
     ],
     [
+        "engagement.md",
+        "engagement-onprem.md",
+        "engagement-cont.md"
+    ],
+    [
         "tools.md",
         "tools-cont.md"
     ],
     "framework-packages.md",
     ["open-souce.md", "internal-open.md"],
-    [
-        "engagement.md",
-        "engagement-onprem.md",
-        "engagement-cont.md"
-    ],
     "services.html",
     [
         "philosophies.md",

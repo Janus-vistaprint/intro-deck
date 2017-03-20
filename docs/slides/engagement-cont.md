@@ -1,3 +1,3 @@
 ##  Engagement <small>(cont.)</small>
 
-We can also help you by committing code right into your own codebases. Working directly with your team(s).
+In addition, we can commit code right into your own repositories. Work directly with your team(s).
