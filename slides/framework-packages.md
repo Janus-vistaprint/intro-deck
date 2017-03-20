@@ -1,4 +1,4 @@
-##  framework-packages
+##  framework packages
 
 We also ship nuget/npm packages to help you build dotnet/nodejs applications.
 
