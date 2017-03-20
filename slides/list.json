@@ -7,15 +7,32 @@
         "tools.md",
         "tools-cont.md"
     ],
+    "framework-packages.md",
     "open-souce.md",
     [
         "engagement.md",
+        "engagement-onprem.md",
         "engagement-cont.md"
     ],
     "services.html",
     [
         "philosophies.md",
         "philosophies-2.md"
+    ],
+    [
+        "how-do-you-like-your-meat.md",
+        "well-done.md",
+        "medium-well.md",
+        "medium.md",
+        "medium-rare.md",
+        "rare.md",
+        {
+            "filename": "blue.md",
+            "attr": {
+                "data-background": "#174dff",
+                "data-background-transition": "fade"
+            }
+        }
     ],
     "tell-us-what-you-need.md"
 ]
