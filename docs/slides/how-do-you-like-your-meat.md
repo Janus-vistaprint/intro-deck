@@ -1,1 +1,1 @@
-##  How do you like your ~~meat~~ DevOps?
+##  How do you like your ~~steak~~ DevOps?
